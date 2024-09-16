@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Jacob VonTersch
+Sudent Email:  jvonters@syr.edu
 
 ## Instructions
 
