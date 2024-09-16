@@ -23,3 +23,12 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+What did you learn?
+- Ok, I have learned a little about parsing data, creating functions and using them, and also using the debug and testing to my advantage. I have learned a little, I am still very confused and this whole thing has me going a little crazy.
+What confuses you?
+- I am confused with just about everything, I need to spend a lot of time on this class. I am confused about VS code, github, and the terms we use like push pull clone and fork. Every class session I learn a ton but I struggle learning by myself outside of the classroom. 
+Where did you struggle?
+- I struggled doing the assignment, turning it in, and commiting and syncing. I know these should be easy things but when I get stuck without resources telling me if I am going down the right path or spiriling even deeper, I struggle. 
+Where might you need more practice?
+- I need practice with this new software. VS Code is hard, i might need to get a tutor or just attend office hours regularly. I want to learn how to do this stuff i know it may be hard and complicated but once I get it down I feel will much better. 
+
